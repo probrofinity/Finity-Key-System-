@@ -1,23 +1,30 @@
 {
-"enabled": true,
-"app_name": "Finity Key System",
-"get_key_url": "https://black-fox-getkey.edgeone.dev/",
-"telegram_url": "https://t.me/akash_black_fox",
-"banned_devices": [],
-"keys": {
-"FINITY-VIP-001": {
-"device_id": "",
-"username": "Finity VIP",
-"type": "buy",
-"created_at": 1792972800000,
-"expires_at": 9999999999999
-},
-"FINITY-FREE-001": {
-"device_id": "",
-"username": "Finity Free",
-"type": "free",
-"created_at": 1792972800000,
-"expires_at": 9999999999999
-}
-}
+  "enabled": true,
+  "app_name": "Finity Key System",
+  "get_key_url": "https://black-fox-getkey.edgeone.dev/",
+  "telegram_url": "https://t.me/akash_black_fox",
+  "banned_devices": [],
+  "keys": {
+    "FINITY-VIP-001": {
+      "device_id": "",
+      "username": "Finity VIP",
+      "type": "buy",
+      "created_at": 1792972800000,
+      "expires_at": 9999999999999
+    },
+    "FINITY-FREE-001": {
+      "device_id": "",
+      "username": "Finity Free",
+      "type": "free",
+      "created_at": 1792972800000,
+      "expires_at": 9999999999999
+    },
+    "Finiry 69849": {
+      "device_id": "",
+      "username": "Finity User",
+      "type": "buy",
+      "created_at": 1792990619714,
+      "expires_at": 1824526560000
+    }
+  }
 }
