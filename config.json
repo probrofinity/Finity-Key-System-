@@ -18,6 +18,13 @@
       "type": "buy",
       "created_at": 1792990619714,
       "expires_at": 1824526560000
+    },
+    "Finity-595377300": {
+      "device_id": "",
+      "username": "Finity User",
+      "type": "buy",
+      "created_at": 1792991850986,
+      "expires_at": 1856150220000
     }
   }
 }
