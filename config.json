@@ -1,7 +1,7 @@
 {
     "enabled": true,
-    "get_key_url": "https://black-fox-getkey.edgeone.dev/",
-    "telegram_url": "https://t.me/akash_black_fox",
+    "get_key_url": "https://finity-getkey.edgeone.dev/",
+    "telegram_url": "https://t.me/Probrofinity",
     "banned_devices": [],
     "keys": {
         "FOX-VIP1-ARIF": {
