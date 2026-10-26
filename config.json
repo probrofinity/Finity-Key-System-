@@ -2,11 +2,15 @@
   "enabled": true,
   "app_name": "Finity Key System",
   "get_key_url": "https://black-fox-getkey.edgeone.dev/",
-  "telegram_url": "https://t.me/akash_black_fox",
+  "telegram_url": "t.me/Telx_Nabiul_Islam",
   "banned_devices": [],
+  "banned_users": [
+    "FINITY-DEADBEEF"
+  ],
   "keys": {
     "FINITY-FREE-001": {
       "device_id": "",
+      "user_id": "",
       "username": "Finity Free",
       "type": "free",
       "created_at": 1792972800000,
@@ -14,6 +18,7 @@
     },
     "Finity-595377300": {
       "device_id": "",
+      "user_id": "",
       "username": "Finity User",
       "type": "buy",
       "created_at": 1792991850986,
@@ -21,10 +26,11 @@
     },
     "Nabiul-probrofinity-ceo": {
       "device_id": "",
+      "user_id": "",
       "username": "Nabiul",
       "type": "buy",
       "created_at": 1792992802467,
-      "expires_at": 1790400780000
+      "expires_at": 1893456000000
     }
   }
 }
